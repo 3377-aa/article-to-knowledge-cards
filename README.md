@@ -138,5 +138,6 @@ MIT License，详见 [LICENSE](LICENSE)。
 
 ## 说明
 
-- 仅本地开发与测试，未初始化 Git，未上传到任何远程仓库。
+- 当前版本：**v0.1.0**（首个公开版本）
+- 仓库地址：https://github.com/3377-aa/article-to-knowledge-cards
 - 开源复用时只需复制单个 `skills/<name>/` 目录，无任何依赖。
