@@ -1,0 +1,6 @@
+version: 1
+
+agent:
+  display_name: Make Knowledge Cards
+  short_description: Turn an article or Markdown/TXT notes into 5-8 study cards.
+  default_prompt: Paste an article or give me a local Markdown/TXT file path, and I will extract the important knowledge into 5-8 study cards.
